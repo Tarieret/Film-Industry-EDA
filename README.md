@@ -53,6 +53,15 @@ Tests whether Action and Drama movies receive statistically different audience r
 - H₁: A significant difference exists
 
 ---
+## Key Findings
+
+**Popularity vs. Rating (Pearson Correlation, r = 0.087)**
+There is a statistically significant but practically negligible relationship between a movie's popularity score and its audience rating (r = 0.087, p < 0.001). This suggests that popularity and quality are largely independent — a movie can be widely watched without being highly rated, and vice versa.
+
+**Action vs. Drama Ratings (Welch T-Test, p < 0.001)**
+Action and Drama movies receive statistically different audience ratings. The difference is significant at the p < 0.05 level, indicating that genre is a meaningful factor in how audiences rate films on TMDB.
+
+---
 
 ## Data & Filtering Decisions
 
