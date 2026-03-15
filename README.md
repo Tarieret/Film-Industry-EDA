@@ -40,8 +40,13 @@ CSV → SQLite Database → SQL Query → R (tidyverse) → ggplot2 Visualizatio
 | `05_rating_by_decade.png` | Average audience rating per decade |
 | `06_most_popular.png` | Top 10 most popular movies by TMDB popularity score |
 
----
+## Preview
 
+![Genre Trends by Decade](plots/04_genre_trends_decade.png)
+![Top 10 Genres](plots/02_top_genres.png)
+![Most Popular Movies](plots/06_most_popular.png)
+
+---
 ## Statistical Analysis
 
 **Pearson Correlation — Popularity vs. Rating**
