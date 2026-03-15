@@ -59,7 +59,8 @@ Tests whether Action and Drama movies receive statistically different audience r
 There is a statistically significant but practically negligible relationship between a movie's popularity score and its audience rating (r = 0.087, p < 0.001). This suggests that popularity and quality are largely independent — a movie can be widely watched without being highly rated, and vice versa.
 
 **Action vs. Drama Ratings (Welch T-Test, p < 0.001)**
-Action and Drama movies receive statistically different audience ratings. The difference is significant at the p < 0.05 level, indicating that genre is a meaningful factor in how audiences rate films on TMDB.
+Drama movies rate statistically higher than Action movies on TMDB (6.27 vs. 5.96 average rating, p < 0.001). While the difference of 0.31 points may seem small, the result is highly significant across 35,000+ films, suggesting that audiences consistently reward narrative-driven films over action-oriented ones.
+
 
 ---
 
